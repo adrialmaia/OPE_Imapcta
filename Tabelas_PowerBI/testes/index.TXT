@@ -1,0 +1,7 @@
+Grupo Data UP
+Data: 02/05/2020
+Amostra de conhecimentos dos dados obtidos através da ANCINE e IBGE
+
+v1:
+- Importação das bases adquiridas na plataforma Power BI correlacionando informações para análise.
+- ETL simples desenvolvida para ajustar alguns dados.
